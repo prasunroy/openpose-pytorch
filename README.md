@@ -1,3 +1,7 @@
+<p align='center'>
+  <img src='https://github.com/prasunroy/openpose-pytorch/raw/master/assets/image_1.jpg' />
+</p>
+
 # OpenPose PyTorch
 **PyTorch implementation of OpenPose.**
 <img align='right' height='100' src='https://github.com/prasunroy/openpose-pytorch/blob/master/assets/logo.png' />
@@ -19,16 +23,12 @@ cd openpose-pytorch
 python setup.py install
 ```
 
-## Running examples:
+## Running examples
 ```
 cd examples
 python image_demo.py
 python video_demo.py
 ```
-
-<p align='center'>
-  <img src='https://github.com/prasunroy/openpose-pytorch/raw/master/assets/image_1.jpg' />
-</p>
 
 ## References
 * [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
