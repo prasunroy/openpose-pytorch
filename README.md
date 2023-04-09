@@ -3,7 +3,7 @@
 </p>
 
 # OpenPose PyTorch
-**PyTorch implementation of OpenPose.**
+**OpenPose api wrapper in PyTorch.**
 <img align='right' height='100' src='https://github.com/prasunroy/openpose-pytorch/blob/master/assets/logo.png' />
 
 ![badge](https://github.com/prasunroy/openpose-pytorch/blob/master/assets/badge_1.svg)
@@ -40,5 +40,6 @@ python video_demo.py
 
 <br />
 <br />
+
 
 **Made with** :heart: **and** :pizza:
