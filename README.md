@@ -41,5 +41,4 @@ python video_demo.py
 <br />
 <br />
 
-
 **Made with** :heart: **and** :pizza:
